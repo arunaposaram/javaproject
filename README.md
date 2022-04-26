@@ -1,1 +1,1 @@
-deploy to container.
+deploy to container plugin
